@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    transition: background 0.3s, color 0.3s;
+    background: linear-gradient(to bottom, #FFE4E1, #20B2AA, #FFE4E1);
+    color: black;
+}
+
+#toggle-button.on {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#toggle-button.off {
+    background-color: black;
+    color: white;
+}
+
+#content {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    transition: background 0.3s, color 0.3s;
+    background: linear-gradient(to bottom, #FFE4E1, #20B2AA, #FFE4E1);
+    color: black;
+}
+
+#toggle-button.on {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#toggle-button.off {
+    background-color: black;
+    color: white;
+}
+
+#content {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+} */
+
+
+
